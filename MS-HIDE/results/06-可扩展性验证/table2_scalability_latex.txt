@@ -1,0 +1,9 @@
+\begin{tabular}{lrrrrrrrrrrrrr}
+\toprule
+case & n_bus & n_l & n_DF & free_dim_s & n_actions & placement_time_s & library_time_s & max_hide_error & valid_action_ratio & strict_rule_ok & strict_cycle_mode & Robust-MTD_plan_time_ms & MS-HIDE_plan_time_ms \\
+\midrule
+case14 & 14 & 20 & 13 & 5 & 10 & 0.0008 & 0.4023 & 0.0000 & 1.0000 & False & False & 0.6661 & 56.7108 \\
+case57 & 57 & 80 & 51 & 21 & 40 & 0.0034 & 15.9884 & 0.0000 & 1.0000 & False & False & 14.4547 & 122.5817 \\
+case118 & 118 & 186 & 118 & 41 & 40 & 0.0119 & 40.9288 & 0.0000 & 1.0000 & False & False & 32.5740 & 393.1136 \\
+\bottomrule
+\end{tabular}
